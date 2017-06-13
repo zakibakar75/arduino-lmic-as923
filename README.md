@@ -1,3 +1,5 @@
+Zaki : Added AS923 into LMIC source code to comply with Malaysia MCMC regulation.
+
 Arduino-LMIC library
 ====================
 This repository contains the IBM LMIC (LoraMAC-in-C) library, slightly
