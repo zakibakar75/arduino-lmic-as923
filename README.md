@@ -1,3 +1,5 @@
+Base Code : https://github.com/matthijskooijman/arduino-lmic
+
 Zaki : Added AS923 into LMIC source code to comply with Malaysia MCMC regulation.
 
 Arduino-LMIC library
